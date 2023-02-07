@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: #EAFAF1;
+    font-family: 'Montserrat', sans-serif;
+    box-sizing: border-box;
+    max-width: 1320px;
+}
+
+
+
+h1 {
+    text-transform: uppercase;
+    text-align: center;
+    margin: 25px;
+ }
+ h2 {
+    text-align: center;
+ }
+
+.division {
+        display: flex;
+        justify-content: left;
+        gap: 1rem;
+        flex-wrap: wrap;
+        margin-left: 500px;
+        margin-right: 100px;
+        padding-bottom: 100px;
+}
+.org {
+    margin: 10px;
+    list-style: none;
+}
+
